@@ -1,5 +1,5 @@
 ---
 layout: post
-title: N=0: Initialize Blog
+title: Initialize Blog
 ---
 An initial blog post.
