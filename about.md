@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm a second year PhD student in the Statistics Department at Columbia University. I'm interested in Bayesian statistics, information theory, and applications in politics and social science. This website will host my research projects and a blog containing screeds on various statistical topics.
