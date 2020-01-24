@@ -1,6 +1,5 @@
 ---
 layout: post
-mathjax: true
 title: On Priors and Mechanisms 
 ---
 I've been thinking recently about the standard Bayesian story about prior distributions, and I want to use this post to record some thoughts I have about that story. I take the "standard Bayesian story" about prior distributions to go something like this. You start with a sampling distribution $p(x| \theta)$. This sampling distribution might represent the measurement error of some device or the range of views in some population of people, for example. In any event, we usually tacitly take the sampling distribution to model something "real" in the world. Now if we're being Bayesian, we also need a prior distribution $p(\theta)$. Usually (though perhaps not always), it is appropriate to think that there is some true fixed value $\theta^*$ in the world. This is supposed to create to create an interpretive problem for the Bayesian. If we think that there is a true value of $\theta$, then although it is unknown, it is not random. So any non-degenerate probability distribution on $\theta$ must give us a misspecified model of the world!
