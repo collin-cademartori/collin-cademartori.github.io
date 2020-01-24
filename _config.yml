@@ -9,7 +9,7 @@ name: Collin Cademartori
 description: A Statistics Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/me.jpg
+avatar: https://raw.githubusercontent.com/collin-cademartori/collin-cademartori.github.io/master/images/me.jpg
 
 #
 # Flags below are optional
